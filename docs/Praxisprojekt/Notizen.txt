@@ -1,0 +1,171 @@
+ 
+
+Struktur
+
+	Einleitung
+		Unternehmensprofil
+		Projektbegründung
+			Projektziel und Projektumfang
+			Requirements Engineering
+			Risikoanalyse
+			Projektplan
+
+		Methodik
+
+		Grundlagen und Definition
+
+		Ist-Analyse
+
+
+		Soll-Konzept
+			Implementierung nach dem DevOps-Ansatz
+			Aufbau der Testumgebung
+			Entwickeln von Testszenarien/Testcases
+			Konzept für die Implementierung
+
+		Realisierung
+			Implementierung
+
+			Test
+
+			Integration
+
+			Projektabschluss
+	
+
+
+
+
+
+Literaturquellen zu
+
+	Projektphasen
+
+	Projektbegründung, Machbarkeit
+
+	KVP
+
+	Anforderungsanalyse
+
+	User storys
+
+	Risikoanalyse
+
+	Projektplan?
+
+	Ist-Aanalyse
+
+	Soll-Konzept
+
+	Implementierung / Devop
+
+	Testen
+
+	Integration / Deploy
+
+
+
+
+
+
+Dabei werden die Daten aus einem Format (z. B. XML) in das standardisierte 
+
+In der Projektdurchführung wurden nach Erhebung der Ausgangssituation die Anforderungen definiert und Projektrisiken identifiziert. Basierend auf den Anforderungen und den Projektrisiken erfolgten die Konzeption zur Umsetzung, die Studie zur Machbarkeit und Kostenkalkulation sowie eine grobe Terminplanung. Konzept, Machbarkeitsstudie und Kostenkalkulation sind die Voraussetzung für den Projektantrag und Projektbegründung. Nach Freigabe des Projekts durch die Geschäftsleitung wurden in der ersten Phase der Entwurf zum Datenmodell und das Design entwickelt. In der anschließenden Implementierung wurde der Programmcode entwickelt und in der darauffolgenden Testphase methodisch getestet. Nach Abschluss der Testphase erfolgte die schrittweise Bereitstellung und Inbetriebnahme, die durch Schulung der Anwender begleitet wurde. 
+
+
+Die Software ist eine Eigenentwicklung des Unternehmens und dient dem Monitoring und der Analyse von Dateikonvertierungen für den elektronischen Datenaustausch (EDI). 
+
+
+Begriffe in der Begriffserläuterung
+	Stakeholder
+	Edifact
+	Requirements Engineering 
+	Change Managements
+	Mind Map
+	Devops
+	CI/CD
+	IDE
+	ETL
+	JDBC
+
+IDE 	Integrated Development Environment 
+(integrierte Entwicklungsumgebung)
+
+
+1. Projektbegründung
+
+2. Anforderungsphase
+
+3. Analysephase / Istanalyse
+
+
+4. Entwurfsphase / Sollkonzept
+
+
+5. Implementierungsphase / Realisierung
+
+
+6. Testphase
+
+
+
+Projektinitialisierung
+
+Anforderungsanalyse und -definition
+
+Entwurf
+
+Implementierung
+
+Integration und Test
+
+Voraussetzungen der Projektkontrolle 
+Erhebung der Ist-Daten
+
+Krallmann, H., Schönherr, M., Trier, M.: Systemanalyse im Unternehmen Oldenbourg Verlag München, 2007
+Klimmer, M.: Verlag neue Wirtschafts-Briefe GmbH & Co. KG, NWB Verlag GmbH & Co. KG, Herne, 4. Auflage, 2016
+
+
+CSV			Comma Separated Value	
+FF			Fix Format
+HTML		Hypertext Markup Language
+Infor
+IDoc		Intermediate Document
+JDE			JD Edwards
+PDF			Portable Document Format
+TRC			Tradacoms
+X12			ANSI X12
+XML			Extensible Markup Language
+
+
+AS2			Applicability Statement 2
+FTP			File Transfer Protocol	
+HTTP		Hypertext Transfer Protocol
+HTTPS		Hypertext Transfer Protocol Secure
+OFTP		Odette File Transfer Protocol 
+SFTP		Secure File Transfer Protocol
+SMTP		Simple Mail Transfer Protocol
+X.400		E-Mail-System basierend auf P7-Protokoll
+
+
+
+
+Testausführung
+Black-Box-Test anhand eines konkreten Bsp. beschreiben
+
+Dokumentation
+
+Screenshots zu Dokumenten wir Testvorschrift, Testfall, Testbericht
+
+
+(Quelle: Softzoll GmbH & Co. KG, 2023)
+Benutzeranalage im "Progress Monitor"
+
+
+Calibre
+
+
+
+
+
+
